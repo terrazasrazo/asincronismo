@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajando con asíncronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terracing/asincronismo.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "asíncronismo"
+  ],
+  "author": "Omar Terrazas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/terracing/asincronismo/issues"
+  },
+  "homepage": "https://github.com/terracing/asincronismo#readme"
+}
