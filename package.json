@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/terracing/asincronismo/issues"
   },
-  "homepage": "https://github.com/terracing/asincronismo#readme"
+  "homepage": "https://github.com/terracing/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
