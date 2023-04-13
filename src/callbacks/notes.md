@@ -16,3 +16,13 @@ procesarEntradaUsuario(saludar);
 ```
 
 [mdn web docs](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
+
+## Estados de XMLHttpRequest
+
+- 0 → Se ha inicializado.
+- 1 → Loading (cargando).
+- 2 → Se ha cargado.
+- 3 → Procesamiento si existe alguna descarga.
+- 4 → Completado.
+
+[mdn web docs](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
